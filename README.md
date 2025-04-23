@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Anastasiya Kotelnikova
 
  MS in Data Science @ NJIT  
- Background in Business + Digital Marketing  
+ Background in Business, Logistics, Healthcare, Digital Marketing  
  Passionate about AI, ML, and solving meaningful problems  
  Based in New York / New Jersey
 
