@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I’m Anastasiya Kotelnikova
 
-<!--
-**AnastasiyaKotelnikova/AnastasiyaKotelnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ MS in Data Science @ NJIT  
+ Background in Business + Digital Marketing  
+ Passionate about AI, ML, and solving meaningful problems  
+ Based in New York / New Jersey
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Toolkit
+
+**Languages & Tools**  
+Python • R • SQL • Hadoop • MapReduce • Git • HTML/CSS/JS  
+PyTorch • Scikit-learn • Pandas • Matplotlib • Norse • Jupyter • VS Code  
+
+---
+
+## Featured Projects
+
+🔹 [**AWS MovieLens MapReduce**](https://github.com/AnastasiyaKotelnikova/aws-movielens-mapreduce) – Processed 1M+ ratings using Hadoop on AWS EC2  
+🔹 [**Spiking Neural Networks with PyTorch & Norse**](https://github.com/AnastasiyaKotelnikova/DS677-SNNs-PyTorch-GroupProject) – Neuromorphic SNNs trained on SHD  
+🔹 [**COVID-19 Case Forecasting**](https://github.com/AnastasiyaKotelnikova/covid-case-forecasting) – Built LSTM models using Kaggle data  
+🔹 [**House Price Regression (R)**](https://github.com/AnastasiyaKotelnikova/house-price-regression-r) – Used advanced regression on housing dataset  
+🔹 [**Equity Portfolio Optimization**](https://github.com/AnastasiyaKotelnikova/equity-portfolio-optimization-r) – Simulated stock rebalancing strategies
+
+---
+
+## Portfolio Website
+Check out my interactive portfolio with all projects, resume, and contact:  
+👉 [anastasyakotelnikova.github.io](https://anastasyakotelnikova.github.io)
+
+---
+
+## Let’s Connect!
+ Email: AnastasiyaKotelnikova21@gmail.com  
+ [LinkedIn](https://www.linkedin.com/in/anastasiya-kotelnikova-511660346)  
+ [GitHub Projects](https://github.com/AnastasiyaKotelnikova?tab=repositories)
+
