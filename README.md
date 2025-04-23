@@ -1,17 +1,20 @@
-# 👋 Hi there, I’m Anastasiya Kotelnikova
-
- MS in Data Science @ NJIT  
- Background in Business, Logistics, Healthcare, Digital Marketing  
- Passionate about AI, ML, and solving meaningful problems  
- Based in New York / New Jersey
+# 👋 Hi there, I’m Anastasiya Kotelnikova — a passionate Data Science graduate student at NJIT with a strong foundation in machine learning, Python, SQL, and data analytics. With a background in business and a growing portfolio of technical projects, I'm transitioning into the field of ML and AI to solve real-world problems with data-driven solutions.
 
 ---
 
-## Technical Toolkit
+## Interests & Focus
+- Machine Learning & Deep Learning
+- Data Analysis & Visualization
+- Model Optimization & Deployment
+- Big Data & Distributed Computing (Hadoop, Spark)
 
-**Languages & Tools**  
-Python • R • SQL • Hadoop • MapReduce • Git • HTML/CSS/JS  
-PyTorch • Scikit-learn • Pandas • Matplotlib • Norse • Jupyter • VS Code  
+---
+
+## Skills
+**Languages**: Python, SQL, R  
+**Tools & Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, Norse  
+**Data Tools**: Hadoop, MapReduce, AWS EC2, HDF5  
+**Other**: GitHub, VS Code, Jupyter, Google Colab  
 
 ---
 
@@ -27,7 +30,7 @@ PyTorch • Scikit-learn • Pandas • Matplotlib • Norse • Jupyter • VS 
 
 ## Portfolio Website
 Check out my interactive portfolio with all projects, resume, and contact:  
-👉 [[anastasyakotelnikova.github.io](https://anastasyakotelnikova.github.io)](https://anastasiyakotelnikova.github.io/Portfolio/
+👉 [Portfolio Website](https://anastasiyakotelnikova.github.io/Portfolio/)
 )
 
 ---
