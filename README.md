@@ -27,7 +27,8 @@ PyTorch • Scikit-learn • Pandas • Matplotlib • Norse • Jupyter • VS 
 
 ## Portfolio Website
 Check out my interactive portfolio with all projects, resume, and contact:  
-👉 [anastasyakotelnikova.github.io](https://anastasyakotelnikova.github.io)
+👉 [[anastasyakotelnikova.github.io](https://anastasyakotelnikova.github.io)](https://anastasiyakotelnikova.github.io/Portfolio/
+)
 
 ---
 
