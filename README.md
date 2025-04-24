@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Anastasiya Kotelnikova — a passionate Data Science graduate student at NJIT with a strong foundation in machine learning, Python, SQL, and data analytics. With a background in business and a growing portfolio of technical projects, I'm transitioning into the field of ML and AI to solve real-world problems with data-driven solutions.
+### 👋 Hi there, I’m Anastasiya — a passionate Data Science graduate student at NJIT with a strong foundation in machine learning, Python, SQL, and data analytics. With a background in business and a growing portfolio of technical projects, I'm transitioning into the field of ML and AI to solve real-world problems with data-driven solutions.
 
 ---
 
