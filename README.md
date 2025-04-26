@@ -37,6 +37,6 @@ Check out my interactive portfolio with all projects, resume, and contact:
 
 ## Let’s Connect!
  Email: AnastasiyaKotelnikova21@gmail.com  
- [LinkedIn](https://www.linkedin.com/in/anastasiya-kotelnikova-511660346)  
+[LinkedIn](https://www.linkedin.com/in/anastasiyakotelnikova/)
 
 
