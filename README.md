@@ -20,6 +20,8 @@
 
 ## Featured Projects
 
+🔹 [Human vs AI Text Classifier](https://github.com/AnastasiyaKotelnikova/human-vs-ai-text-classifier) – Built a binary text classification model using TF-IDF and multiple ML algorithms (LogReg, SVC, RF, NB) to detect AI- 
+   generated vs human-written content.
 🔹 [**AWS MovieLens MapReduce**](https://github.com/AnastasiyaKotelnikova/aws-movielens-mapreduce) – Processed 1M+ ratings using Hadoop on AWS EC2  
 🔹 [**Spiking Neural Networks with PyTorch & Norse**](https://github.com/AnastasiyaKotelnikova/DS677-SNNs-PyTorch-GroupProject) – Neuromorphic SNNs trained on SHD  
 🔹 [**COVID-19 Case Forecasting**](https://github.com/AnastasiyaKotelnikova/covid-case-forecasting) – Built LSTM models using Kaggle data  
