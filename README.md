@@ -20,6 +20,9 @@
 
 ## Featured Projects
 
+🔹 **[Human vs AI Text Classifier](https://github.com/AnastasiyaKotelnikova/human-vs-ai-text-classifier)** – Detected AI-generated text using TF-IDF and classic ML models.
+
+
 🔹 [Human vs AI Text Classifier](https://github.com/AnastasiyaKotelnikova/human-vs-ai-text-classifier) – Detected AI-generated text using TF-IDF and classic ML models.   
 🔹 [**AWS MovieLens MapReduce**](https://github.com/AnastasiyaKotelnikova/aws-movielens-mapreduce) – Processed 1M+ ratings using Hadoop on AWS EC2  
 🔹 [**Spiking Neural Networks with PyTorch & Norse**](https://github.com/AnastasiyaKotelnikova/DS677-SNNs-PyTorch-GroupProject) – Neuromorphic SNNs trained on SHD  
