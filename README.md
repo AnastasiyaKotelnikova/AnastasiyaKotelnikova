@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Anastasiya — a passionate Data Science graduate student at NJIT with a strong foundation in machine learning, Python, SQL, and data analytics. With a background in business and a growing portfolio of technical projects, I'm transitioning into the field of ML and AI to solve real-world problems with data-driven solutions.
+### 👋  Hi there, I’m Anastasiya — a passionate data professional transitioning into the field of Machine Learning and AI, with a strong foundation in Python, SQL, deep learning, and big data technologies. Backed by a background in business and a growing portfolio of technical projects, I’m building a career as a Data Scientist or Machine Learning Engineer. I bring hands-on experience in data modeling, analytics, statistical analysis, and cloud platforms to solve real-world problems and drive data-driven decision-making. My technical portfolio includes projects in Hadoop MapReduce, PyTorch-based Spiking Neural Networks (SNNs), and machine learning model deployment.
 
 ---
 
