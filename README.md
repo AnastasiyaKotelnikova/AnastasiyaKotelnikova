@@ -1,4 +1,9 @@
-### 👋  Hi there, I’m Anastasiya — a passionate data professional transitioning into the field of Machine Learning and AI, with a strong foundation in Python, SQL, deep learning, and big data technologies. Backed by a background in business and a growing portfolio of technical projects, I’m building a career as a Data Scientist or Machine Learning Engineer. I bring hands-on experience in data modeling, analytics, statistical analysis, and cloud platforms to solve real-world problems and drive data-driven decision-making. My technical portfolio includes projects in Hadoop MapReduce, PyTorch-based Spiking Neural Networks (SNNs), and machine learning model deployment.
+## 👋 Hi there, I’m Anastasiya — a passionate data professional transitioning into the field of Machine Learning and AI, with a strong foundation in Python, SQL, deep learning, AWS cloud services, and big data technologies. 
+
+Backed by a background in business and a growing portfolio of technical projects, I’m building a career as a Data Scientist or Machine Learning Engineer. I bring hands-on experience in data modeling, analytics, statistical analysis, and AWS cloud platforms to solve real-world problems and drive data-driven decision-making.
+
+My technical portfolio includes projects in Hadoop MapReduce, Apache Spark on AWS EMR, PyTorch-based Spiking Neural Networks (SNNs), model deployment using Docker, and machine learning workflows in Amazon S3, EC2, and EMR.
+
 
 ---
 
