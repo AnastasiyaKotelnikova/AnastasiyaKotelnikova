@@ -1,48 +1,104 @@
-### Hi there, I’m Anastasiya — a passionate data professional transitioning into the field of Machine Learning and AI, with a strong foundation in Python, SQL, deep learning, AWS cloud services, and big data technologies. 
+# Hi, I'm Anastasiya 👋  
 
-### Backed by a background in business and a growing portfolio of technical projects, I’m building a career as a Data Scientist or Machine Learning Engineer. I bring hands-on experience in data modeling, analytics, statistical analysis, and AWS cloud platforms to solve real-world problems and drive data-driven decision-making.
+**Data Scientist | MS in Data Science @ NJIT | Machine Learning • NLP • Cloud • Distributed Systems**
 
-### My technical portfolio includes projects in Hadoop MapReduce, Apache Spark on AWS EMR, PyTorch-based Spiking Neural Networks (SNNs), model deployment using Docker, and machine learning workflows in Amazon S3, EC2, and EMR.
+I’m a Data Scientist with a strong interdisciplinary background spanning business, analytics, IT, and cloud technologies. I specialize in building scalable machine learning systems and transforming complex data into actionable insights.
 
+Currently completing my **M.S. in Data Science at NJIT (GPA: 3.875)**, with hands-on experience in predictive modeling, deep learning, natural language processing, distributed computing, and AWS cloud architecture.
 
 ---
 
-## Interests & Focus
+## 🔎 Technical Focus
+
 - Machine Learning & Deep Learning
-- Data Analysis & Visualization
-- Model Optimization & Deployment
-- Big Data & Distributed Computing (Hadoop, Spark)
+- Natural Language Processing (NLP)
+- Time Series Forecasting (LSTM, GRU)
+- Distributed Systems (Hadoop, MapReduce, Spark)
+- Cloud-Based ML Pipelines (AWS EC2, S3, EMR)
+- Secure & Scalable AI System Design
 
 ---
 
-## Skills
-**Languages**: Python, SQL, R  
-**Tools & Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, Norse  
-**Data Tools**: Hadoop, MapReduce, AWS EC2, HDF5  
-**Other**: GitHub, VS Code, Jupyter, Google Colab  
+## 🛠 Tech Stack
+
+### Languages
+Python • SQL • R  
+
+### Machine Learning & AI
+Scikit-learn • TensorFlow • Keras • PyTorch • Norse  
+
+### NLP
+Text Classification • TF-IDF • Language Modeling • Feature Engineering  
+
+### Data & Big Data
+Pandas • NumPy • Matplotlib • Seaborn • Hadoop • MapReduce • Apache Spark • HDFS  
+
+### Cloud & Deployment
+AWS (EC2, S3, IAM, EMR) • Docker • Git  
+
+### Other Tools
+Jupyter • VS Code • Google Colab  
 
 ---
 
-## Featured Projects
+## 🚀 Selected Projects
 
-🔹 **[Human vs AI Text Classifier](https://github.com/AnastasiyaKotelnikova/human-vs-ai-text-classifier)** – Detected AI-generated text using TF-IDF and classic ML models.   
-🔹 [**AWS MovieLens MapReduce**](https://github.com/AnastasiyaKotelnikova/aws-movielens-mapreduce) – Processed 1M+ ratings using Hadoop on AWS EC2  
-🔹 [**Spiking Neural Networks with PyTorch & Norse**](https://github.com/AnastasiyaKotelnikova/DS677-SNNs-PyTorch-GroupProject) – Neuromorphic SNNs trained on SHD  
-🔹 [**COVID-19 Case Forecasting**](https://github.com/AnastasiyaKotelnikova/covid-case-forecasting) – Built LSTM models using Kaggle data  
-🔹 [**House Price Regression (R)**](https://github.com/AnastasiyaKotelnikova/house-price-regression-r) – Used advanced regression on housing dataset  
-🔹 [**Equity Portfolio Optimization**](https://github.com/AnastasiyaKotelnikova/equity-portfolio-optimization-r) – Simulated stock rebalancing strategies
+### 📌 Human vs AI Text Classification
+Built an NLP classification pipeline using TF-IDF and machine learning models to distinguish between human-written and AI-generated text.  
+*Tools: Python, Scikit-learn, NLP preprocessing*
+
+### 📌 AWS MovieLens MapReduce Project
+Implemented distributed data processing on AWS EMR using Hadoop MapReduce to analyze large-scale movie ratings datasets.  
+*Tools: Java MapReduce, AWS EC2, S3, EMR*
+
+### 📌 Spiking Neural Networks (SNNs)
+Designed and trained biologically inspired neural network models using PyTorch and Norse for neuromorphic computing experiments.  
+*Tools: PyTorch, Norse*
+
+### 📌 Time Series Forecasting (LSTM/GRU)
+Developed deep learning models for sequence prediction and binary classification using recurrent neural networks.  
+*Tools: TensorFlow, Keras*
 
 ---
 
-## Portfolio Website
-Check out my interactive portfolio with all projects, resume, and contact:  
-👉 [Portfolio Website](https://anastasiyakotelnikova.github.io/Portfolio/)
-)
+## 🎓 Education
+
+**M.S. in Data Science – NJIT (In Progress)**  
+GPA: 3.9  
+
+Completed Coursework:
+- Machine Learning  
+- Deep Learning  
+- Natural Language Processing  
+- Applied Statistics  
+- Big Data & Distributed Systems  
+- Cloud Computing  
+- Artificial Intelligence  
+- Security & Privacy in Computing Systems  
+
+**B.S. in Business Administration – Montclair State University**
 
 ---
 
-## Let’s Connect!
- Email: AnastasiyaKotelnikova21@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/anastasiyakotelnikova/)
+## 🏆 Certifications
+
+- AWS Certified Cloud Practitioner  
+- AWS Certified Developer – Associate  
+- AWS Certified Solutions Architect – Associate  
+- AWS Certified AI Practitioner – Associate  
+- Databricks Fundamentals Accreditation  
+- Graduate Certificate in Big Data Essentials (NJIT)
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 Portfolio: https://anastasiyakotelnikova.github.io/Portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/anastasiyakotelnikova
+- 📧 Email: anastasiya.kotelnikova21@gmail.com
+
+---
+
+I’m particularly interested in building intelligent, scalable, and secure AI systems that bridge machine learning innovation with real-world business impact.
 
 
