@@ -63,7 +63,7 @@ Developed deep learning models for sequence prediction and binary classification
 
 ## 🎓 Education
 
-**M.S. in Data Science – NJIT (In Progress)**  
+**M.S. in Data Science – NJIT**  
 GPA: 3.9  
 
 Completed Coursework:
