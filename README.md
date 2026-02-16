@@ -95,7 +95,7 @@ Completed Coursework:
 
 - 🌐 Portfolio: https://anastasiyakotelnikova.github.io/Portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/anastasiyakotelnikova
-- 📧 Email: anastasiya.kotelnikova21@gmail.com
+- 📧 Email: anastasiyakotelnikova21@gmail.com
 
 ---
 
