@@ -4,7 +4,7 @@
 
 I’m a Data Scientist with a strong interdisciplinary background spanning business, analytics, IT, and cloud technologies. I specialize in building scalable machine learning systems and transforming complex data into actionable insights.
 
-Currently completing my **M.S. in Data Science at NJIT (GPA: 3.8)**, with hands-on experience in predictive modeling, deep learning, natural language processing, distributed computing, and AWS cloud architecture.
+Completed **M.S. in Data Science at NJIT (GPA: 3.8)**, with hands-on experience in predictive modeling, deep learning, natural language processing, distributed computing, and AWS cloud architecture.
 
 ---
 
